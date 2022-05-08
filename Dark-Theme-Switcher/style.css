@@ -1,0 +1,12 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+/* light theme colors */
+body{
+  --color-1: rgb(196, 220, 241);
+  --color-1: white;
+  --color-1: white;
+  --color-4: rgb(80, 82, 110);
+}
